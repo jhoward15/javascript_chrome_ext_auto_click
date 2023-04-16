@@ -1,0 +1,1 @@
+# javascript_chrome_ext_auto_click
